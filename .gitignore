@@ -17,7 +17,8 @@ googlemapskey.txt
 __pycache__/
 *.py[cod]
 *$py.class
-
+human_activity/
+data/
 # C extensions
 *.so
 
